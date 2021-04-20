@@ -1,0 +1,11 @@
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/services/KafkaConsumerService.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/services/KafkaProducerService.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/models/Student.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/configurations/KafkaProducerConfig.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/configurations/RedisConfig.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/controllers/KakfaController.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/repositories/StudentRepository.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/InitSpringApplication.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/configurations/KafkaConsumerConfig.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/repositories/StudentRepositoryImpl.java
+/home/gerardo/eclipse-workspace/spring-rest-kafka/src/main/java/com/gerardo/controllers/RedisController.java
